@@ -4,7 +4,7 @@ Coronavirus (Covid-19) Arabic Tweets (1 March 2020 - 31 April 2020)
 
 @author: Sultan Almujaiwel salmujaiwel@ksu.edu.sa
 ==================================================================
-This is a repository of some Arabic tweets. Please use the processed datasets for your own gain. However, you you should let the author know by email if you get results using these data.
+This is a repository of some Arabic tweets. Please use the processed datasets for your own gain. However, you should let the author know by email if you get results using these data.
 ==================================================================
 
  - Processed 100K Saudi Tweets on Covid-19 (sentiment anlaysis).
