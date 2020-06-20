@@ -4,7 +4,7 @@ Coronavirus (Covid-19) Arabic Tweets (1 March 2020 - 31 April 2020)
 
 @author: Sultan Almujaiwel salmujaiwel@ksu.edu.sa
 ==================================================================
-This is a repository of some widely Arabic tweets posed from the 1st of March to the 31st of April in 2020. Please use the procssed datasets for your own gain.
+This is a repository of some Arabic tweets posted from the 1st of March to the 31st of April in 2020. Please use the processed datasets for your own gain.
 However, you you should let the author know by email if you get results using these data.
 ==================================================================
 
