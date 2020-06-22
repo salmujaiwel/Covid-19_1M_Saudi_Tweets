@@ -14,7 +14,7 @@ This is a repository of some Arabic tweets. Please use the processed datasets fo
 3)	pos.csv
 4)	neg.csv 
 
- - Porcssed 1M Saudi Tweets on Covid-19.
+ - Porcssed 1M Saudi Tweets on Covid-19 can be downloaded from https://we.tl/t-yN4odcIO3r 
 
 5)	1M_Covid19SaudiTweets
 
