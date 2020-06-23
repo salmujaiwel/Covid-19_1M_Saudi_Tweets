@@ -2,7 +2,7 @@
 
 =======================================================
 
-Tweets posted from 1st of March to 30th of April, 2020. 
+Tweets posted from 1st of March to 30th of April, 2020.
 @author: salmujaiwel@ksu.edu.sa. Please use the processed datasets for your own gain. However, you should let the author know by email if you get results using these data.
 
  - Processed 100K Saudi Tweets on Covid-19 (sentiment anlaysis).
