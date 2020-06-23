@@ -1,6 +1,6 @@
-# Covid-19ArabicTwitterDatasets
-5M Arabic Tweets on Covid-19 
-Coronavirus (Covid-19) Arabic Tweets (1 March 2020 - 31 April 2020)
+# Covid-19SaudiTwitterDatasets
+
+Tweets posted from 1st of March to 30th of April, 2020. 
 
 @author: Sultan Almujaiwel salmujaiwel@ksu.edu.sa
 ==================================================================
