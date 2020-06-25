@@ -11,6 +11,8 @@ Tweets posted from the 1st of March to the 30th of April in 2020. Please use the
 
 5)	1M_Covid19SaudiTweets
 
+Datasets can be obtained. Kindly drop me an email. 
+
  - Procssed list of unique words for 5 hashtags from 5M tweets. Automatic indexing and sorting of the dicitonary
 
 6)	كورونا# (coronavirus.txt)
