@@ -1,5 +1,5 @@
 # Covid-19SaudiTwitterDatasets
-================================
+
 Tweets posted from the 1st of March to the 30th of April in 2020. Please use the processed datasets for your own gain. However, you may let the author know by email (salmujaiwel@ksu.edu.sa) if you get results using these data.
 
  - Processed 100K Saudi Tweets on Covid-19 (sentiment anlaysis).
