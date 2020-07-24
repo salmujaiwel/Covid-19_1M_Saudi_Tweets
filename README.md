@@ -4,7 +4,7 @@ Tweets posted from the 1st of March to the 30th of April in 2020. Please use the
 
  - Processed 1M Saudi Tweets on Covid-19 (sentiment anlaysis).
 
-1)	Sentiment_Analysis for 100K tweets.ipynb
+1)	Sentiment_Analysis for one million (1M) tweets.ipynb
 2)	pos.csv
 3)	neg.csv 
 
