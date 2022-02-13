@@ -12,8 +12,8 @@ Tweets posted from the 1st of March to the 30th of April in 2020. Please use the
 
 - Procssed list of unique words for 5 hashtags from 5M tweets. Automatic indexing and sorting of the dicitonary
 
-5)	كورونا# (coronavirus.txt)
-6)	فيروس_كورونا# (covid-19.txt)
-7)	منع_التجول# and حظر_التجول# (curfew.txt)
-8)	كورونا_المستجد# (novel_coronavirus.txt)
-9)	العالم_في_مواجهة_كورونا# (world_facing_covid-19.txt)
+5)	(coronavirus.txt) كورونا# 
+6)	(covid-19.txt) فيروس_كورونا# 
+7)	(curfew.txt) منع_التجول# and حظر_التجول#
+8)	(novel_coronavirus.txt) كورونا_المستجد# 
+9)	(world_facing_covid-19.txt) العالم_في_مواجهة_كورونا# 
