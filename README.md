@@ -1,6 +1,6 @@
 # Covid-19SaudiTwitterDatasets
 
-Tweets posted from the 1st of March to the 30th of April in 2020. Please use the processed datasets for your own gain. However, you may let the author know by email (salmujaiwel@hotmail.com) if you get results using these data.
+Tweets posted from the 1st of March to the 30th of April in 2020. Please use the processed datasets for your own gain. However, you may let the author know by email (salmujaiwel@hotmail.com) if you get results using these data. Datasets can be obtained. Kindly drop me an email. 
 
  - Processed 1M Saudi Tweets on Covid-19 (sentiment anlaysis).
 
@@ -9,8 +9,6 @@ Tweets posted from the 1st of March to the 30th of April in 2020. Please use the
 3)	neg.csv 
 
 4)	1M_Covid19SaudiTweets
-
-Datasets can be obtained. Kindly drop me an email. 
 
 - Procssed list of unique words for 5 hashtags from 5M tweets. Automatic indexing and sorting of the dicitonary
 
